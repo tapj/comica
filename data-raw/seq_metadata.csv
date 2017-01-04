@@ -1,0 +1,43 @@
+Code_sequences;Mice_ID;comment;origine;cage;souris n°;time;time_corrected;donor;donor_status
+A1-T0;A1_200903_normal_NaCl;donneur sainT0, 32 ans;selles;A;1;T0;7;Sainjanv2009;normal
+A1-T14;A1_200903_normal_NaCl;donneur sainJ14, 32 ans;selles;A;1;T14;21;Sainjanv2009;normal
+A1-T28;A1_200903_normal_NaCl;donneur sainJ28, 32 ans;selles;A;1;T28;42;Sainjanv2009;normal
+A2-T0;A2_200903_normal_NaCl;donneur sainJan2009,T0;selles;A;2;T0;7;Sainjanv2009;normal
+A2-T14;A2_200903_normal_NaCl;donneur sainJ14,Jan2009,J14;selles;A;2;T14;21;Sainjanv2009;normal
+A2-T28;A2_200903_normal_NaCl;donneur sainJan2009,J28;selles;A;2;T28;42;Sainjanv2009;normal
+A3-T0;A3_200903_normal_NaCl;donneur sainT0, Jan2009;selles;A;3;T0;7;Sainjanv2009;normal
+A3-T14;A3_200903_normal_NaCl;donneur sainJ14, Jan2009;selles;A;3;T14;21;Sainjanv2009;normal
+A3-T28;A3_200903_normal_NaCl;donneur sainJ28, Jan2009;selles;A;4;T28;42;Sainjanv2009;normal
+A4-T0;A4_200903_normal_NaCl;donneur sainT0, Jan2009;selles;A;4;T0;7;Sainjanv2009;normal
+A4-T14;A4_200903_normal_NaCl;donneur sainJ14, Jan2009;selles;A;4;T14;21;Sainjanv2009;normal
+A4-T28;A4_200903_normal_NaCl;donneur sainJ28, Jan2009;selles;A;4;T28;42;Sainjanv2009;normal
+A5-T0;A5_200903_normal_NaCl;donneur sainT0, Jan2009;selles;A;5;T0;7;Sainjanv2009;normal
+A5-T14;A5_200903_normal_NaCl;donneur sainJ14, Jan2009;selles;A;5;T14;21;Sainjanv2009;normal
+A5-T28;A5_200903_normal_NaCl;donneur sainJ28, Jan2009;selles;A;5;T28;42;Sainjanv2009;normal
+C1-T28;C1_200903_cancer_NaCl;donneur KJ28, 32 ans;selles;C;1;T28;42;CRCjanv2009;cancer
+C3-T28;C3_200903_cancer_NaCl;donneur KJ28, 32 ans;selles;C;3;T28;42;CRCjanv2009;cancer
+C5-T28;C5_200903_cancer_NaCl;donneur KJ28, 32 ans;selles;C;5;T28;42;CRCjanv2009;cancer
+P1D1;D1_201004_cancer_NaCl;donneurK du jan2010,T0;selles;D;1;T0;7;CRCjanv2010;cancer
+P1D2;D2_201004_cancer_NaCl;donneurK du jan2010,T0;selles;D;2;T0;7;CRCjanv2010;cancer
+P1D3;D3_201004_cancer_NaCl;donneurK du jan2010,T0;selles;D;3;T0;7;CRCjanv2010;cancer
+P1N2;N2_201007_cancer_NaCl;Donneur cancerJuil2010,T0;selles;N;2;T0;7;CRCjuin2010;cancer
+P1N4;N4_201007_cancer_NaCl;Donneur cancerJuil2010,T0;selles;N;4;T0;7;CRCjuin2010;cancer
+P1N5;N5_201007_cancer_NaCl;Donneur cancerJuil2010,T0;selles;N;5;T0;7;CRCjuin2010;cancer
+P1P1;P1_201007_normal_NaCl;donneur sain, jul2010,T0;selles;P;1;T0;7;Sainjuin2010;normal
+P1P4;P4_201007_normal_NaCl;donneur sain, jul2010,T0;selles;P;4;T0;7;Sainjuin2010;normal
+P3D1;D1_201004_cancer_NaCl;donneurK du jan2010,J14;selles;D;1;T14;21;CRCjanv2010;cancer
+P3D2;D2_201004_cancer_NaCl;donneurK du jan2010,J14;selles;D;2;T14;21;CRCjanv2010;cancer
+P3D3;D3_201004_cancer_NaCl;donneurK du jan2010, J14;selles;D;3;T14;21;CRCjanv2010;cancer
+P3N2;N2_201007_cancer_NaCl;Donneur cancerJuil2010,J14;selles;N;2;T14;21;CRCjuin2010;cancer
+P3N4;N4_201007_cancer_NaCl;Donneur cancerJuil2010,J14;selles;N;4;T14;21;CRCjuin2010;cancer
+P3N5;N5_201007_cancer_NaCl;Donneur cancerJuil2010,J14;selles;N;5;T14;21;CRCjuin2010;cancer
+P3P1;P1_201007_normal_NaCl;donneur sain, jul2010,J14;selles;P;1;T14;21;Sainjuin2010;normal
+P3P4;P4_201007_normal_NaCl;donneur sain, jul2010,J28;selles;P;4;T14;21;Sainjuin2010;normal
+P5D1;D1_201004_cancer_NaCl;donneurK du jan2010, J28;selles;D;1;T28;42;CRCjanv2010;cancer
+P5D2;D2_201004_cancer_NaCl;donneurK du jan2010, J28;selles;D;2;T28;42;CRCjanv2010;cancer
+P5D3;D3_201004_cancer_NaCl;donneurK du jan2010, J28;selles;D;3;T28;42;CRCjanv2010;cancer
+P5N2;N2_201007_cancer_NaCl;Donneur cancerJuil2010,J28;selles;N;2;T28;42;CRCjuin2010;cancer
+P5N4;N4_201007_cancer_NaCl;Donneur cancerJuil2010,J28;selles;N;4;T28;42;CRCjuin2010;cancer
+P5N5;N5_201007_cancer_NaCl;Donneur cancerJuil2010,J28;selles;N;5;T28;42;CRCjuin2010;cancer
+P5P1;P1_201007_normal_NaCl;donneur sain, jul2010,J28;selles;P;1;T28;42;Sainjuin2010;normal
+P5P4;P4_201007_normal_NaCl;donneur sain, jul2010,J28;selles;P;4;T28;42;Sainjuin2010;normal
